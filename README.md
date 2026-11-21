@@ -43,6 +43,9 @@ I teach Cornell students to build backend services from scratch with Python and 
 - **[Uplift Backend](https://github.com/cuappdev/uplift-backend)**: backend for Uplift, Cornell's fitness app. Built Google OAuth identity verification and gym-hours scraping from the Cornell Recreation site, and am adding saved workout details *(Python, Flask, GraphQL)*
 - **[Ithaca Transit Backend](https://github.com/cuappdev/ithaca-transit-backend)**: open-source backend for Ithaca Transit; working on an event form feature *(JavaScript, Node.js)*
 
+### Coursework
+- **[Commodity Trader](https://github.com/jhkim2275/commodity-trader)**: terminal trading game built by a team for CS 3110. Players trade wheat, oil, gold, lumber and cattle against bots whose bid/ask quotes react to live news headlines *(OCaml, Lwt, Dune)*
+
 ### Personal
 - **[Pilot Price](https://github.com/WyattC-ctrl/Pilot-Price-Google-Flight-AI-Tracker)**: automated Google Flights price tracker that runs on GitHub Actions, stores price history in Supabase, and sends drop alerts over Telegram
 - **[PollEv Bot](https://github.com/WyattC-ctrl/PollEv-Google-Chrome-Extension-Bot)**: Chrome extension that detects and responds to live PollEverywhere polls
